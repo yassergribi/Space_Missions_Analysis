@@ -5,8 +5,8 @@ Used space missions data from nextspaceflight.com between 1957 and 2020 to analy
 ## Analysed and Visualise the Space Race
 
 ![Cold_War_Rivalry](Cold_War_Rivalry.JPG)
-![leading_country](img/leading_country.png)
-![leading_Organization](img/leading_Organization.png)
+![leading_country](img/leading_country.svg)
+![leading_Organization](img/leading_Organization.svg)
 
 ## ✔️ Author
 
